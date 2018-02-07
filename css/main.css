@@ -1,1 +1,101 @@
+/*vista splash*/
 
+.gradiente {
+  background: linear-gradient(#530060 , #d00984 );
+  height: 100vh;
+}
+
+.img-logo {
+  transform: translateY(150%);
+  width: 200px;
+}
+
+/*SIGN UP*/
+
+.img-car {
+  background-image: url("../assets/images/lyft-car.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.logo-size {
+  width: 100px;
+}
+
+.img-size {
+  height: 300px;
+  width: 350px;
+}
+
+.buttons {
+  transform: translateY(150%);
+}
+
+.buttons a {
+  border: 1px solid;
+}
+
+.loading {
+  position: relative;
+  top: 280px;
+}
+
+.verify {
+  clear: both;
+}
+
+.btn-next, .btn-next2 {
+  width: 90%;
+}
+
+.size-input {
+  width: 60px !important;
+}
+
+.code {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+.btn-resent {
+  border: none;
+  padding: 5px 10px;
+  outline: none !important;
+}
+
+.btn-verify {
+  transform: translateY(600%);
+  width: 80%;
+}
+
+.btnAdd {
+  background: linear-gradient(to right, #d00984 , #530060 );
+  font-weight: 700;
+}
+
+.btnSend {
+  transform: translateY(400%);
+}
+
+.aceptServices {
+  font-weight: 700;
+}
+
+.img-lg {
+  transform: translateY(120%);
+  width: 250px;
+}
+
+.img-check {
+  background-color: #fff;
+  height: 180px !important;
+  transform: translateY(240px);
+  width: 190px;
+
+}
+
+.check-container {
+  background: linear-gradient(to bottom right, #530060, #e19);
+  height: 100vh;
+}
